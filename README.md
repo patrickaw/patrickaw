@@ -37,6 +37,13 @@
 
 ---
 
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=patrickaw&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+---
+
+
 ## 🏆 Trophies
 ![Tropies](https://github-profile-trophy.vercel.app/?username=patrickaw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -48,3 +55,10 @@
 
 ---
 
+<!--
+<img data-importer="snake" src="https://raw.githubusercontent.com/patrickaw/patrickaw/snake-output/snake.svg" alt="Snake animation" />
+
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=patrickaw.patrickaw&left_text=Profile%20Views"  />
+</div> -->

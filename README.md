@@ -2,9 +2,7 @@
 ![Banner](img/Banner.png)
 
 <!--Introduction-->
-<h1 align="center"> Hi 👋, I'm Patrick Ardian WIbowo</h1>
-
----
+<h1 align="center"> Hi 👋, I'm Patrick Ardian Wibowo</h1>
 
 <!--About Me-->
 ## 👨‍💻About Me
@@ -20,13 +18,13 @@
 
 <!--Tech Stack-->
 ## 🛠️ Tech Stack
-#### 💻 Languages
+### 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,php,js,ts,java,c,cpp,py)](https://skillicons.dev)
-#### ⚙️ Frameworks
+### ⚙️ Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react,tailwind,vue)](https://skillicons.dev)
-#### 🗄️ Databases
+### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo)](https://skillicons.dev)
-#### 🔧 Tools
+### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,postman,figma,unity,unreal)](https://skillicons.dev)
 
 ---

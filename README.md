@@ -2,7 +2,7 @@
 ![Banner](img/Banner.png)
 
 <!--Introduction-->
-<h1 align="center"> Hi 👋, I'm Patrick Ardian Wibowo</h1>
+<h1 align="center"><b>Hi 👋, I'm Patrick Ardian Wibowo</b></h1>
 
 <!--About Me-->
 ## 👨‍💻About Me
@@ -45,6 +45,6 @@
 
 <!--Connect-->
 ## 🤝Connect With Me
-![mailto:patrickwibowo733@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://wa.me/6287760769609](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![www.linkedin.com/in/patrickardianwibowo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/patrick__a.w](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@patrick_a.w](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickwibowo733@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287760769609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickardianwibowo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrick__a.w) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@patrick_a.w)
 
 ---

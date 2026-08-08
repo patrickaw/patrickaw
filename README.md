@@ -19,13 +19,13 @@
 <!--Tech Stack-->
 ## 🛠️ Tech Stack
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,php,js,ts,java,c,cpp,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,php,js,java,c,cpp,py)](https://skillicons.dev)
 ### ⚙️ Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react,tailwind,vue)](https://skillicons.dev)
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 ### 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,postman,figma,unity,unreal)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,figma)](https://skillicons.dev)
 
 ---
 

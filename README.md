@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner](img/Banner.png)
+![Banner](img/Banner.jpg)
 
 <!--Introduction-->
 <h1 align="center">Hi 👋, I'm Patrick Ardian Wibowo</h1>
